@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/brillian/project/php/test_edii/resources/views/admin_biodata.blade.php</file>
+            <file>file:/home/brillian/project/php/test_edii/resources/views/biodata.blade.php</file>
+            <file>file:/home/brillian/project/php/test_edii/app/Http/Controllers/ActionController.php</file>
+            <file>file:/home/brillian/project/php/test_edii/app/Http/Controllers/BiodataController.php</file>
+            <file>file:/home/brillian/project/php/test_edii/public/css/custom.css</file>
+            <file>file:/home/brillian/project/php/test_edii/resources/views/biodata_data_pribadi.blade.php</file>
+            <file>file:/home/brillian/project/php/test_edii/resources/views/biodata_riwayat_pendidikan.blade.php</file>
+            <file>file:/home/brillian/project/php/test_edii/routes/web.php</file>
+            <file>file:/home/brillian/project/php/test_edii/resources/views/layouts/app.blade.php</file>
+        </group>
+    </open-files>
+</project-private>
