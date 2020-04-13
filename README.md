@@ -1,7 +1,7 @@
 # Project Test EDII
 ```
 Dependency:
-Lararavel 5.5
+Laravel 5.5
 php 7.0
 ```
 
